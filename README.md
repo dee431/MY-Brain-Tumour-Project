@@ -1,3 +1,2 @@
 # MY-Brain-Tumour-Project
-<img width="1232" height="1099" alt="image" src="https://github.com/user-attachments/assets/f4db4822-1a9d-4e10-abcc-1c50b3bd7b1e" />
-
+<img width="1159" height="813" alt="image" src="https://github.com/user-attachments/assets/e5c4ce37-e6db-4bcb-b296-34ae2284b7c2" />
